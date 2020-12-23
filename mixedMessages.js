@@ -19,3 +19,4 @@ const obj = { quotes: ["All that we are is the result of what we have thought.",
 
 
 };
+console.log(`${obj.randomQuotes()} ${obj.randomFacts()} Your lucky number for today: ${obj.randomNumbers()}`)
