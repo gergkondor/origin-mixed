@@ -21,4 +21,4 @@ const obj = { quotes: ["All that we are is the result of what we have thought.",
               }
 };
 
-console.log(`${obj.randomQuotes()} \n${obj.randomFacts()} \nYour lucky number for today: ${obj.randomNumbers()}`)
+console.log(`Today's quote: ${obj.randomQuotes()} \nAstrophysics fact of the day: ${obj.randomFacts()} \nToday's lucky number: ${obj.randomNumbers()}`)
